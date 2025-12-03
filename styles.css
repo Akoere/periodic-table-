@@ -1,6 +1,6 @@
 body {
-
-  font-family: "Comic Sans MS", "Comic Sans", cursive; 
+ 
+  font-family: "comic sans ms", sans-serif; 
   padding: 20px;
   background-color: #ffffff;
 }
@@ -161,4 +161,5 @@ h1 {
   cursor: pointer;
   color: #888;
 }
+
 .close-btn:hover { color: #000; }
